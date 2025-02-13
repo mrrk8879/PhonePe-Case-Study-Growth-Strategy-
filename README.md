@@ -83,11 +83,11 @@ This project is an in-depth **case study analysis of PhonePe**, one of India’s
 ---
 
 ## 📌 How to Use This Repository?  
-1️⃣ **Explore the Case Study Report** 📜 [PhonePe_Case_Study.pdf](./PhonePe_Case_Study.pdf)  
-2️⃣ **Check the Schema Design & ER Diagram** 🖼 [Schema_Design_ER_Diagram.png](./Schema_Design_ER_Diagram.png)  
-3️⃣ **Analyze the Revenue Growth Strategy** 📊 [Revenue_Growth_Strategy.pptx](./Revenue_Growth_Strategy.pptx)  
-4️⃣ **Review Guesstimates & Business Insights** 📈 [Guesstimates_Analysis.xlsx](./Guesstimates_Analysis.xlsx)  
-5️⃣ **Run Data Analysis Scripts** 🖥 [data_analysis.ipynb](./scripts/data_analysis.ipynb)  
+1️⃣ **Explore the Case Study Report** 📜 https://docs.google.com/document/d/1C9FewDQYMOxd3UeMae2W8Bw_-7frVFNm/edit?usp=drive_link&ouid=110044925024306021610&rtpof=true&sd=true
+2️⃣ **Check the Schema Design & ER Diagram** 🖼 https://drive.google.com/file/d/10XCzo78l4W1k8UDmI6C5uTP3QWKPwJPQ/view?usp=drive_link 
+3️⃣ **Review Guesstimates & Business Insights** 📈 [Guesstimates_Analysis.xlsx](./Guesstimates_Analysis.xlsx)   
+4️⃣ **Presentation** 🖥 https://docs.google.com/presentation/d/1Sztn8qC6vJSMjZt3HZ6XWrxTcgGRM69b/edit?usp=sharing&ouid=110044925024306021610&rtpof=true&sd=true
+5️⃣ **Check the Schema Design** 🖼 https://drive.google.com/file/d/1gFiDxiWpVseA403jz4YvVohdQ3jyzwXF/view?usp=drive_link
 
 ---
 
